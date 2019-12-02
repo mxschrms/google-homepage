@@ -1,0 +1,17 @@
+img {
+    position: relative;
+    top: 200px;
+    left: 410px;
+  
+}
+
+#search {
+    position: absolute;
+    background-color: transparent;
+    top: 330px;
+    left: 330px;
+    border: none;
+    box-shadow: none;
+    outline: none;    
+}
+
